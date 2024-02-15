@@ -1,4 +1,4 @@
-# **ShoppingList**
+# **Composition**
 
 Composition - этот проект является тестовым приложением, разработанным для изучения и демонстрации навыков работы с Android Jetpack и Clean Architecture. Он включает в себя использование основных компонентов Jetpack, таких как Navigation Component, Fragment Manager и View Binding, а также практики по обеспечению чистоты и структурированности кода с помощью Clean Architecture.
 
